@@ -17,7 +17,7 @@ const studentNames = [
   'Famas, Danz Bjerfstin E. ',
   'Felicitas, Joshua D.  ',
   'Leyva, Alsonfred E.  ',
-  'Manuel, Humphrey',
+  'Manuel, Humphrey E.',
   'Yasay,Angelo'
 
   
